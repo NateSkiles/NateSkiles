@@ -3,8 +3,8 @@
 
 **About Me!**
 - 👨🏻‍💻 I’m currently working as a Job Placement Director @ The Tech Academy.
-- 🌱 I’m currently exploring advance JavaScript popular JS frameworks/libraries. 
-- 📚 Interested in front end web development and OOP.
+- 🌱 Exploring advance JavaScript & popular frameworks/libraries. 
+- 📚 Interested in full-stack web development & OOP.
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/nathan-skiles/)!
 - 📫 Email me at [admin@nateskiles.me](mailto:admin@nateskiles.me).
 
