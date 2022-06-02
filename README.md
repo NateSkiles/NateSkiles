@@ -5,7 +5,7 @@
 - 🌱 Exploring JavaScript & popular frameworks/libraries. 
 - 📚 Interested in full-stack web development & OOP.
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/nathan-skiles/)!
-- 📫 Email me at [admin@nateskiles.me](mailto:admin@nateskiles.io).
+- 📫 Email me at [admin@nateskiles.io](mailto:admin@nateskiles.io).
 
 **Languages and Tools:**  
 
